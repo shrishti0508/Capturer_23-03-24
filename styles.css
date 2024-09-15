@@ -209,7 +209,7 @@ nav {
 
 .service {
   background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)),
-    url("assets/service.jpg");
+    url("assets/service.jpeg");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -322,20 +322,20 @@ nav {
 
 .blog {
   background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url("assets/blog.jpg");
+    url("assets/Blog.jpg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
 }
 
-.blog__container {
+/* .blog__container {
   padding-block: 8rem;
   display: grid;
 }
 
 .blog__content {
   text-align: center;
-}
+} */
 
 .blog__content .section__header {
   margin-bottom: 2rem;
